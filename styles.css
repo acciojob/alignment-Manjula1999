@@ -33,4 +33,12 @@ h2{
            padding:10px;
 	      padding: 8px;
         }
+#table-3{
+	border:1px solid back;
+	border-collapse:collapse;
+	width:100%;
+	cell-padding:1px
+	   spacing: 1px;
+}
+
 	
