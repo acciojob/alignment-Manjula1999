@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.middle{
+table{
 	border:1px solid back;
 	border-collapse:collapse;
 	width:100%;
 	cell-padding:1px
-	spacing: 1px;
+	Spacing: 1px;
 }
 td{
 	border:1px solid black;
@@ -12,19 +12,10 @@ td{
 h2{
 	text-align:center;
 }
-#t11{
-	text-align: left;
-}
-#t12{
-	text-align:center;
-}
-#t13{
-	text-align:right;
-}
  td{
             border: 1px solid back;
            padding:10px;
-	      padding: 8px;
+	     cell- padding: 1px;
         }
 #t-image{
 text-align:center;
