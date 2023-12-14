@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+#table-1{
+	border:1px solid back;
+	border-collapse:collapse;
+	width:100%;
+	cell-padding:1px
+	   spacing: 1px;
+}
+td{
+	border:1px solid black;
+}
+h2{
+	text-align:center;
+}
+#t11{
+	text-align: left;
+}
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right;
+}
+#table-2{
+	border:1px solid back;
+	border-collapse:collapse;
+	width:100%;
+   cell-padding:1px
+	spacing:1px;
+}
+ td {
+            border: 1px solid back;
+           padding:10px;
+	      padding: 8px;
+        }
+	
