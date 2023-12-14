@@ -4,7 +4,7 @@
 	border-collapse:collapse;
 	width:100%;
 	cell-padding:1px
-	   spacing: 1px;
+	spacing: 1px;
 }
 td{
 	border:1px solid black;
@@ -36,12 +36,13 @@ h2{
 #table-3{
 	border:1px solid back;
 	border-collapse:collapse;
-	width:100%;
 	cell-padding:1px
-	   spacing: 1px;
+	 spacing: 1px;
+	width:100%;
 }
 #t-image{
 text-align:center;
+	padding:0px;
 }
 
 	
