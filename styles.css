@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#table-1{
+.middle{
 	border:1px solid back;
 	border-collapse:collapse;
 	width:100%;
@@ -21,25 +21,11 @@ h2{
 #t13{
 	text-align:right;
 }
-#table-2{
-	border:1px solid back;
-	border-collapse:collapse;
-	width:100%;
-   cell-padding:1px
-	spacing:1px;
-}
- td {
+ td{
             border: 1px solid back;
            padding:10px;
 	      padding: 8px;
         }
-#table-3{
-	border:1px solid back;
-	border-collapse:collapse;
-	cell-padding:1px
-	 spacing: 1px;
-	width:100%;
-}
 #t-image{
 text-align:center;
 	padding:0px;
